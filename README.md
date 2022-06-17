@@ -1,9 +1,9 @@
 # About Me
-- 👋 Hi, I’m @liz-mcdaneld and I am a certified Firefighter/Advanced Emergency Technician looking to enter the feild of data analytics.
-- 👀 I’m interested in studying to become a data analyst, and improve my current skillset.
-- 🌱 I’m currently learning data analysis with Rice University Bootcamps. Through this programm I am learing: Pivot tables, Forecasting, VBA scripting, and Statistics modeling through Microsoft Excel. Python data analytics using Python 3, APIs, NumPy, SciPy, Pandas, and Matplotlib. Oraganizing and structuring data with SQL, PostgreSQL/pg, Admin, MongoDB, and Extract, Transform, Load (ETL) process. Web visualization through HTML, CSS, Bootstrap framework, JavaScript charting, and Geomapping with Leaflet.js This program also covers advanced topics like Tableau, R programming, Hadoop, and Machine learning.
-- 💞️ I’m looking to join a team where I can apply my current skillset, and continue to learn and refine my data analysis skills. 
-- 📫 Email: liz.mcdaneld@gmail.com
+- 👋 Hi, I’m @liz-mcdaneld and I am a certified Firefighter/Advanced Emergency Technician looking to enter the field of data analytics.
+- 👀 I’m interested in studying to become a data analyst and improve my current skillset.
+- 🌱 I’m currently learning data analysis with Rice University Bootcamps. Through this program I am learning many different skills used in data analysis. I have done Pivot tables, Forecasting, VBA scripting, and Statistics modeling through Microsoft Excel. Python data analytics using Python 3, APIs, NumPy, SciPy, Pandas, and Matplotlib. Organizing and structuring data with SQL, PostgreSQL/pg, Admin, MongoDB, and Extract, Transform, Load (ETL) process. Web visualization through HTML, CSS, Bootstrap framework, JavaScript charting, and Geo mapping with Leaflet.js This program also covers advanced topics like Tableau, R programming, Hadoop, and Machine learning.
+- 💞️ I’m looking to join a team where I can apply my current skillset and continue to learn and refine my data analysis skills. 
+- 📫 Email: liz.mcdaneld@gmail.com 
 
 # Repositories from Rice University Data Analytics Bootcamp
 ## Module work
