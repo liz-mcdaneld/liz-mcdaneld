@@ -1,6 +1,6 @@
 # About Me
 - 👋 Hi, I’m @liz-mcdaneld and I am a Data Analyst with a background in Fire and EMS. Excellent team-work and team-building skills from experience as a first responder allow me to work proficiently in a team and collaborations. I am self motivated with constant desire to learn. Excited about using my skill set to perform detailed and efficient analysis. Strengths including creative thinking, attention to details, critical thinking and problem solving to perform organized quality analysis.
-- 👀 I’m interested become a team member with a company who values thier employees.
+- 👀 I’m interested becoming a team member with a company who values thier employees.
 - 🌱 I have studied data analysis with Rice University Bootcamps. Through this program I am learning many different skills used in data analysis. I have done Pivot tables, Forecasting, VBA scripting, and Statistics modeling through Microsoft Excel. Python data analytics using Python 3, APIs, NumPy, SciPy, Pandas, and Matplotlib. Organizing and structuring data with SQL, PostgreSQL/pg, Admin, MongoDB, and Extract, Transform, Load (ETL) process. Web visualization through HTML, CSS, Bootstrap framework, JavaScript charting, and Geo mapping with Leaflet.js This program also covers advanced topics like Tableau, R programming, Hadoop, and Machine learning.
 - 💞️ I’m looking to join a team where I can apply my current skillset and continue to learn and refine my data analysis skills. 
 - 📫 Email: liz.mcdaneld@gmail.com 
