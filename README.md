@@ -1,5 +1,5 @@
 # Portfolio
-## Check out my protfolio [here](https://liz-mcdaneld.github.io/Portfolio/).
+## Check out my portfolio [here](https://liz-mcdaneld.github.io/Portfolio/).
 
 
 ## About Me
