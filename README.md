@@ -33,3 +33,4 @@
 14. [ NYC Citibikesharing - Tools: Tableau, dashboards, storytelling](https://github.com/liz-mcdaneld/Bikesharing)
 15. [ MechaCar Statistical Analysis - Tools: R, Tidyverse, ggplot2, Hypothesis testing, Linear Regression, ANOVA, t-tests, Chi-squared, AB and AA testing](https://github.com/liz-mcdaneld/MechaCar_Statistical_Analysis)
 16. [ Amazon Vine Analysis - Tools: QL, AWS S3, Big Data, NLP, MapReduce, Hadoop, Spark, PySpark](https://github.com/liz-mcdaneld/Amazon_Vine_Analysis)
+17. [ Credit Risk Analysis - Tools: Supervised Machine Learning, SciKit, Random Over Smapler, SMOTE, SMOTEEN, Balanced Random Forest Classifier, Easy Ensemble Classifier, Cluster Centroids](https://github.com/liz-mcdaneld/Credit_Risk_Analysis)
