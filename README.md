@@ -28,7 +28,7 @@
 4. [School District Analysis](https://github.com/liz-mcdaneld/School_District_Analysis.git) - Tools: Python, Cleaning DataFrames, Groupby(), Pandas, Numpy. School District Analysis Math and Reading with Pandas.
 5. [PyBer Analysis](https://github.com/liz-mcdaneld/PyBer_Analysis.git) - Tools: Matplotlib, Charts, Numpy, Pandas, SciPy, Python. PyBer Ride sharing app analysis with Matplotlib.
 6. [World Weather Analysis](https://github.com/liz-mcdaneld/World_Weather_Analysis.git) - Tools: Python libraries, API, JSON, Matplotlib, Google Maps. Using Python and APIs to visualize weather data.
-#### World Weather Aaalysis Quick Look:
+#### World Weather Analysis Quick Look:
   <img src="https://user-images.githubusercontent.com/103263248/190445107-e7956fd7-cac9-415a-aeaa-0932cd2af914.png" width=50% height=50%>
 
 7. [ Pewlett Hackard Analysis](https://github.com/liz-mcdaneld/Pewlett-Hackard-Analysis) - Tools: ERD, SQL database, pgAdmin, joins, queries. Employee database with SQL.
@@ -49,6 +49,6 @@
 16. [ Amazon Vine Analysis](https://github.com/liz-mcdaneld/Amazon_Vine_Analysis) - Tools: QL, AWS S3, Big Data, NLP, MapReduce, Hadoop, Spark, PySpark. Big Data using PySpark, AWS, and pgAdmin to analyse Amanzon product reviews.
 17. [ Credit Risk Analysis](https://github.com/liz-mcdaneld/Credit_Risk_Analysis) - Tools: Supervised Machine Learning, SciKit, Random Over Smapler, SMOTE, SMOTEEN, Balanced Random Forest Classifier, Easy Ensemble Classifier, Cluster Centroids. Supervised Machine Learning and Credit Risk.
 18. [Cryptocurrencies Analysis](https://github.com/liz-mcdaneld/Cryptocurrencies) - Tools: Supervised Machine Learning, SciKit, Random Over Smapler, SMOTE, SMOTEEN, Balanced Random Forest Classifier, Easy Ensemble Classifier, Cluster Centroids. Supervised and Unsupervised Machine Learning of tradable cryptocurrencies.
-#### Cryptocurrencies Anlaysis Quick Look:
+#### Cryptocurrencies Analysis Quick Look:
 <img src="https://user-images.githubusercontent.com/103263248/190444074-0ac055ac-b0ba-4752-9ce2-29ec6c32b95f.png" width=50% height=50%>
 
