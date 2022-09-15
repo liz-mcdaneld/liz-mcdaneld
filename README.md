@@ -9,10 +9,10 @@
 
 - 🌱 I have studied data analysis with Rice University Bootcamps. Through this program I am learning many different skills used in data analysis. I have done Pivot tables, Forecasting, VBA scripting, and Statistics modeling through Microsoft Excel. Python data analytics using Python 3, APIs, NumPy, SciPy, Pandas, and Matplotlib. Organizing and structuring data with SQL, PostgreSQL/pg, Admin, MongoDB, and Extract, Transform, Load (ETL) process. Web visualization through HTML, CSS, Bootstrap framework, JavaScript charting, and Geo mapping with Leaflet.js This program also covers advanced topics like Tableau, R programming, Hadoop, and Machine learning.
 
-## - 📫 Email: liz.mcdaneld@gmail.com 
+### 📫 Email: liz.mcdaneld@gmail.com 
 
 ## Final Project
---comming soon--
+--work in progress--
 
 ## Repositories from Rice University Data Analytics Bootcamp
 1. [Kickstarter Analysis](https://github.com/liz-mcdaneld/kickstarter-analysis.git) - Tools: Excel, PivotTables, Graphs, Analysis. Performing analysis on Kickstarter data to uncover trends using PivotTables and graphs in Excel.
@@ -32,4 +32,4 @@
 15. [ MechaCar Statistical Analysis](https://github.com/liz-mcdaneld/MechaCar_Statistical_Analysis) - Tools: R, Tidyverse, ggplot2, Hypothesis testing, Linear Regression, ANOVA, t-tests, Chi-squared, AB and AA testing. Statistics and R analysis of MechaCar ratings.
 16. [ Amazon Vine Analysis](https://github.com/liz-mcdaneld/Amazon_Vine_Analysis) - Tools: QL, AWS S3, Big Data, NLP, MapReduce, Hadoop, Spark, PySpark. Big Data using PySpark, AWS, and pgAdmin to analyse Amanzon product reviews.
 17. [ Credit Risk Analysis](https://github.com/liz-mcdaneld/Credit_Risk_Analysis) - Tools: Supervised Machine Learning, SciKit, Random Over Smapler, SMOTE, SMOTEEN, Balanced Random Forest Classifier, Easy Ensemble Classifier, Cluster Centroids. Supervised Machine Learning and Credit Risk.
-18. [Cryptocurrencies Analysis - Tools: Supervised Machine Learning, SciKit, Random Over Smapler, SMOTE, SMOTEEN, Balanced Random Forest Classifier, Easy Ensemble Classifier, Cluster Centroids](https://github.com/liz-mcdaneld/Cryptocurrencies) - Tools: Supervised Machine Learning, SciKit, Random Over Smapler, SMOTE, SMOTEEN, Balanced Random Forest Classifier, Easy Ensemble Classifier, Cluster Centroids. Supervised and Unsupervised Machine Learning of tradable cryptocurrencies.
+18. [Cryptocurrencies Analysis](https://github.com/liz-mcdaneld/Cryptocurrencies) - Tools: Supervised Machine Learning, SciKit, Random Over Smapler, SMOTE, SMOTEEN, Balanced Random Forest Classifier, Easy Ensemble Classifier, Cluster Centroids. Supervised and Unsupervised Machine Learning of tradable cryptocurrencies.
