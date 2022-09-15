@@ -20,7 +20,7 @@
 
 ## Repositories from Rice University Data Analytics Bootcamp
 1. [Kickstarter Analysis](https://github.com/liz-mcdaneld/kickstarter-analysis.git) - Tools: Excel, PivotTables, Graphs, Analysis. Performing analysis on Kickstarter data to uncover trends using PivotTables and graphs in Excel.
-#### Quick Look:
+#### Kickstarter Analysis Quick Look:
 <img src="https://user-images.githubusercontent.com/103263248/190443300-f949b2fd-eaf7-4c42-bac1-c2489f9636de.png" width=50% height=50%>
 
 2. [Stock Analysis](https://github.com/liz-mcdaneld/stock-analysis.git) - Tools: VBA, Loops. Using Excel VBAs for data analysis of stocks.
@@ -28,8 +28,8 @@
 4. [School District Analysis](https://github.com/liz-mcdaneld/School_District_Analysis.git) - Tools: Python, Cleaning DataFrames, Groupby(), Pandas, Numpy. School District Analysis Math and Reading with Pandas.
 5. [PyBer Analysis](https://github.com/liz-mcdaneld/PyBer_Analysis.git) - Tools: Matplotlib, Charts, Numpy, Pandas, SciPy, Python. PyBer Ride sharing app analysis with Matplotlib.
 6. [World Weather Analysis](https://github.com/liz-mcdaneld/World_Weather_Analysis.git) - Tools: Python libraries, API, JSON, Matplotlib, Google Maps. Using Python and APIs to visualize weather data.
-#### Quick Look:
-  <img src="![world_weather_analysis](https://user-images.githubusercontent.com/103263248/190445107-e7956fd7-cac9-415a-aeaa-0932cd2af914.png" width=50% height=50%>
+#### World Weather Aaalysis Quick Look:
+  <img src="https://user-images.githubusercontent.com/103263248/190445107-e7956fd7-cac9-415a-aeaa-0932cd2af914.png" width=50% height=50%>
 
 7. [ Pewlett Hackard Analysis](https://github.com/liz-mcdaneld/Pewlett-Hackard-Analysis) - Tools: ERD, SQL database, pgAdmin, joins, queries. Employee database with SQL.
 8. [ Movies ETL](https://github.com/liz-mcdaneld/Movies-ETL) - Tools: ETL, SQL, Python, Pandas, Regex, PostgreSQL, Kaggle, JSON, Parsing. Extract, Transform and Load Movie review data.
@@ -37,18 +37,18 @@
 10. [ Mission to Mars](https://github.com/liz-mcdaneld/Mission-to-Mars) - Tools: HTML, BeautifulSoup, Splinter, MongoDB, Flask, CSS, Bootstrap. Web Scraping with HTML/CSS.
 11. [ UFO Finder](https://github.com/liz-mcdaneld/UFOs) - Tools: JavaScript, arrow functions, loops, HTML, CSS. UFO Sightings with JavaScript/HTML/CSS/Bootstrap.
 12. [ Belly Button Biodiversity](https://github.com/liz-mcdaneld/plotly_deployment) - Tools: D3 JSON, Plotly, Parsing, JavaScript Math, event handlers, GitHub Pages. Use JavaScript, D3.json(), Plotly to showcase belly button biodiversity.
-#### Quick Look:
+#### Belly Button Biodiversity Quick Look:
 <img src="https://user-images.githubusercontent.com/103263248/190442865-248a3720-0eda-4dfa-a24b-39167f22e6c4.png" width=50% height=50%>
 
 13. [ Mapping Earthquakes](https://github.com/liz-mcdaneld/Mapping_Earthquakes) - Tools: GeoJSON, API, D3, JavaScript. Mapping Earthquakes with JavaScript and APIs.
-14. [ NYC Citibikesharing](https://github.com/liz-mcdaneld/Bikesharing) - Tools: Tableau, dashboards, storytelling. Displaying NYC Bikesharing data through Tableau.
-#### Quick Look:
+14. [ NYC CitiBikesharing](https://github.com/liz-mcdaneld/Bikesharing) - Tools: Tableau, dashboards, storytelling. Displaying NYC Bikesharing data through Tableau.
+#### NYC CitiBikesharing Quick Look:
 <img src="https://user-images.githubusercontent.com/103263248/190442929-1d53c4ce-c7ee-4043-9c3e-e821cda85e9b.png" width=75% height=75%>
 
 15. [ MechaCar Statistical Analysis](https://github.com/liz-mcdaneld/MechaCar_Statistical_Analysis) - Tools: R, Tidyverse, ggplot2, Hypothesis testing, Linear Regression, ANOVA, t-tests, Chi-squared, AB and AA testing. Statistics and R analysis of MechaCar ratings.
 16. [ Amazon Vine Analysis](https://github.com/liz-mcdaneld/Amazon_Vine_Analysis) - Tools: QL, AWS S3, Big Data, NLP, MapReduce, Hadoop, Spark, PySpark. Big Data using PySpark, AWS, and pgAdmin to analyse Amanzon product reviews.
 17. [ Credit Risk Analysis](https://github.com/liz-mcdaneld/Credit_Risk_Analysis) - Tools: Supervised Machine Learning, SciKit, Random Over Smapler, SMOTE, SMOTEEN, Balanced Random Forest Classifier, Easy Ensemble Classifier, Cluster Centroids. Supervised Machine Learning and Credit Risk.
 18. [Cryptocurrencies Analysis](https://github.com/liz-mcdaneld/Cryptocurrencies) - Tools: Supervised Machine Learning, SciKit, Random Over Smapler, SMOTE, SMOTEEN, Balanced Random Forest Classifier, Easy Ensemble Classifier, Cluster Centroids. Supervised and Unsupervised Machine Learning of tradable cryptocurrencies.
-#### Quick Look:
+#### Cryptocurrencies Anlaysis Quick Look:
 <img src="https://user-images.githubusercontent.com/103263248/190444074-0ac055ac-b0ba-4752-9ce2-29ec6c32b95f.png" width=50% height=50%>
 
