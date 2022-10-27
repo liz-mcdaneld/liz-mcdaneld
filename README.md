@@ -23,9 +23,9 @@
 
 The Greater Houston Area is a large portion of Southeast Texas consisting of 17 counties, and with an estimated population of 7.21 million. The goal is to look at documented crimes from 2015 to 2020 and their statistics to see how the years, counties, and other factors compare and what factors may determine the crime numbers for different counties. Our analysis looks at an overview of all Texas counties, with a focus on Harris County and the Greater Houston area.
 
-Click [here](https://miguelb512.github.io/Texas_Crime_Trends/) to veiw this group project's presentation.
+#### Click [here](https://miguelb512.github.io/Texas_Crime_Trends/) to veiw this group project's presentation.
 
-Click [here](https://github.com/MiguelB512/Texas_Crime_Trends) to veiw this group project's repository.
+#### Click [here](https://github.com/MiguelB512/Texas_Crime_Trends) to veiw this group project's repository.
 
 My roles throughout the project consited of many: from building the main database our data was stored in to the preprocessing and machine learning models building, as well as the HTML/CSS structure for our web page deployment.
 
