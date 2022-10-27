@@ -16,7 +16,18 @@
 ### 📫 Email: liz.mcdaneld@gmail.com 
 
 ## Final Project
---work in progress--
+
+<img src="https://user-images.githubusercontent.com/103263248/198333216-1ac75ffe-bea1-419b-92a3-ebed08bc3a07.png" width=50% height=50%>
+
+#### Project Goals and Purpose
+
+The Greater Houston Area is a large portion of Southeast Texas consisting of 17 counties, and with an estimated population of 7.21 million. The goal is to look at documented crimes from 2015 to 2020 and their statistics to see how the years, counties, and other factors compare and what factors may determine the crime numbers for different counties. Our analysis looks at an overview of all Texas counties, with a focus on Harris County and the Greater Houston area.
+
+Click [here](https://miguelb512.github.io/Texas_Crime_Trends/) to veiw this group project's presentation.
+
+Click [here](https://github.com/MiguelB512/Texas_Crime_Trends) to veiw this group project's repository.
+
+My roles throughout the project consited of many: from building the main database our data was stored in to the preprocessing and machine learning models building, as well as the HTML/CSS structure for our web page deployment.
 
 ## Repositories from Rice University Data Analytics Bootcamp
 1. [Kickstarter Analysis](https://github.com/liz-mcdaneld/kickstarter-analysis.git) - Tools: Excel, PivotTables, Graphs, Analysis. Performing analysis on Kickstarter data to uncover trends using PivotTables and graphs in Excel.
@@ -51,4 +62,4 @@
 18. [Cryptocurrencies Analysis](https://github.com/liz-mcdaneld/Cryptocurrencies) - Tools: Supervised Machine Learning, SciKit, Random Over Smapler, SMOTE, SMOTEEN, Balanced Random Forest Classifier, Easy Ensemble Classifier, Cluster Centroids. Supervised and Unsupervised Machine Learning of tradable cryptocurrencies.
 #### Cryptocurrencies Analysis Quick Look:
 <img src="https://user-images.githubusercontent.com/103263248/190444074-0ac055ac-b0ba-4752-9ce2-29ec6c32b95f.png" width=50% height=50%>
-
+19. [Neural Network Charity Analysis](https://github.com/liz-mcdaneld/Neural_Network_Charity_Analysis) - Tools: neural network model, Machine Learning classification, TensorFlow, Deep Neural Networks 
