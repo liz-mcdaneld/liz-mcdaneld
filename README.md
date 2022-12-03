@@ -7,7 +7,12 @@
 
 
 ## About Me
-- 👋 Hi, I’m @liz-mcdaneld and Data analyst with a background in Fire and EMS. Certificate in Data Analysis from Rice University’s Bootcamp. Skills include excellent team-work and team-building from experience as a firefighter allowing me to work proficiently in a team and with collaborations. Achievements include instructor certificate in AAIR (Active Attack Integrated Response) for ALERRT(Advanced Law Enforcement Rapid Response Training), and Creative Director for Warrior’s Way Foundation. Self motivated with constant desire to learn. Excited about using my skills in data analytics to perform detailed and efficient analysis. Strengths include attention to detail, creativity, critical thinking and problem solving to perform organized quality analysis.
+- 👋 Hi, I’m @liz-mcdaneld a data analyst with a background working in the Fire Department and EMS. Trained at Rice University’s Data Analytics Boot Camp and earned a certificate in data analysis and visualization. 
+
+Teamwork and team-building skills allow me to work proficiently in a team and collaborations. Excel in my skills in communication, time management, critical thinking, and creativity. In my previous roles an eagerness to learn and grow has seen me undertake external training. 
+
+Accomplishments include instructor certificate in AAIR (Active Attack Integrated Response) for ALERRT (Advanced Law Enforcement Rapid Response Training). Creative Director for Warrior’s Way Foundation, a non-profit set up to provide emotional and mental health support to veterans and first responders. 
+Excited about using my skills to perform detailed and efficient analysis and data visualization. Strengths in attention to detail, HTML5, CSS, Python (programming language), Pandas, and creativity to perform organized quality analysis.
 
 - 👀 I’m interested becoming a team member with a company who values thier employees, and where I can apply my creativity and skills. 
 
